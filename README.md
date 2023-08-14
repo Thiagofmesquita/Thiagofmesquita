@@ -1,8 +1,8 @@
 ## Um pouco sobre mim!
 ### Idade : 29 anos
 
-. Estudando Full Stack
-. Apaixonado pelo Fortaleza Esporte Clube
+1. Estudando Full Stack
+2. Apaixonado pelo Fortaleza Esporte Clube
 
 ### Contatos:
-. Discord: thiagofmesquita
+1. Discord: thiagofmesquita
